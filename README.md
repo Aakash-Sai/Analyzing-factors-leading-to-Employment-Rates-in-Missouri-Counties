@@ -7,7 +7,7 @@ In this data analysis project, I delved into socioeconomic and accessibility fac
 * Transformed, cleaned, and employed exploratory data analysis techniques to further understand the data.
 * Tested using regression models and utilized residual histograms, bar graphs, and scatter plots to visually represent data patterns, highlighting the influence of variables on employment rates.
 
-## Tools and Technologies Used
+## Tools & Technologies Used
 * Python
 * R Language
 * Libraries : Pandas/Numpy, ggplot2, seaborn, sklearn
