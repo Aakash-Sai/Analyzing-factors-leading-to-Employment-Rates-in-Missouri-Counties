@@ -1,4 +1,3 @@
-# Documentation
 
 ## Project Overview
 In this data analysis project, I delved into socioeconomic and accessibility factors across Missouri counties to uncover their influence on employment rates. By examining this, I aimed at illuminating important connections between these factors and employment rates and provide a base for furthur improvement in these fields.
