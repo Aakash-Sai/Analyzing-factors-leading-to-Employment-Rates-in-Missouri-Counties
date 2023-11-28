@@ -4,7 +4,7 @@ In this data analysis project, I delved into socioeconomic and accessibility fac
 
 ## Outcomes
 * Conducted comprehensive analysis of socioeconomic and accessibility factors in Missouri counties, uncovering intricate relationships with employment rates.
-* Transformed, cleaned, and employed exploratory data analysis techniques to further understand the data.
+* Transformed, cleaned, and performed exploratory data analysis to further understand the data.
 * Tested using regression models and utilized residual histograms, bar graphs, and scatter plots to visually represent data patterns, highlighting the influence of variables on employment rates.
 
 ## Tools & Technologies Used
